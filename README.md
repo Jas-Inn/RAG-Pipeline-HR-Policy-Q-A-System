@@ -90,9 +90,3 @@ All model weights are downloaded automatically from HuggingFace Hub on first run
 
 `HuggingFace Transformers` · `DPR` · `FAISS` · `GPT-2` · Dual-Encoder Retrieval · Dense Passage Retrieval · Vector Indexing · RAG · `t-SNE` · NLP · Generation Parameter Tuning · Open-Domain QA
 
----
-
-## Author
-
-**Yassine Chakir** — Data Scientist  
-[LinkedIn](https://linkedin.com/in/yassine-chakir-b2aba3247) · yassine.chakir@gmx.de
